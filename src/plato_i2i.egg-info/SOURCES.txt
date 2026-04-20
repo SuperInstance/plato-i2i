@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/plato_i2i/__init__.py
+src/plato_i2i/protocol.py
+src/plato_i2i.egg-info/PKG-INFO
+src/plato_i2i.egg-info/SOURCES.txt
+src/plato_i2i.egg-info/dependency_links.txt
+src/plato_i2i.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: plato-i2i
+Version: 0.1.0
+Summary: I2I inter-agent protocol — message formatting, routing, trust-weighted delivery
+License: MIT
+Requires-Python: >=3.8
